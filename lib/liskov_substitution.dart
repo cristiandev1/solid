@@ -11,6 +11,10 @@
 
   Já extender uma classe você herda os métodos dela e pode fazer overwrite de métodos entre outras coisas
   definidas na programação OO.
+
+  Respeitar o principio de Liskov forca o nosso programa a ter as abstrações no nivel certo
+  e ser mais consistente.
+
 */
 
 //Contrato a ser seguido por quem for implementar.
